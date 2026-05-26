@@ -57,4 +57,4 @@ python profile_manager.py --create "my-setup"
 - Profile switching can be slow with 500+ mods — working on optimizing that
 - Category auto-detection is about 85% accurate, some mods need manual sorting
 
-> **Disclaimer:** This tool is not affiliated with or endorsed by EA or Maxis. Use at your own risk. Modding can cause unexpected behavior in your game. Always keep backups of your saves and mods folder before making changes.
+> **Disclaimer:** This tool is not affiliated with or endorsed by EA or Maxis. Use at your own risk. Modding can cause unexpected behavior in your game. Always keep backups of your saves and mods folder before making changes. 
